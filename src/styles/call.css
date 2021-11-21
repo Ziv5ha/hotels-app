@@ -1,0 +1,9 @@
+button {
+  width: 35%;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(66, 109, 110);
+  box-shadow: rgb(60, 101, 102) 0 0 6px 3px;
+  border: groove black 1.5px;
+  cursor: pointer;
+}
