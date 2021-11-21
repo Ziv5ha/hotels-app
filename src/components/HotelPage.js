@@ -1,7 +1,7 @@
 import { useParams } from "react-router";
 import Haifa from "../data/haifa.json";
 import CallNowButton from "./CallNowButton";
-import "../styles/hotel-page.css";
+// import "../styles/hotel-page.css";
 
 function HotelsPage() {
   let params = useParams();
