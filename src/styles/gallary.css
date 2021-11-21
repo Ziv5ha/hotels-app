@@ -1,0 +1,11 @@
+.gallary {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 90vw;
+  margin: auto;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}

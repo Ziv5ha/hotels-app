@@ -1,0 +1,11 @@
+.h-card {
+  width: 30vw;
+  height: 30vw;
+  max-width: 140px;
+  max-height: 140px;
+  background-color: cadetblue;
+  border-radius: 20px;
+  box-shadow: rgb(60, 101, 102) 0 0 10px 5px;
+  text-align: center;
+  margin: auto;
+}

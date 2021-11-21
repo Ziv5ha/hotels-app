@@ -1,4 +1,5 @@
 import { Component } from "react";
+import "../styles/card.css";
 
 class HotelsCard extends Component {
   render() {

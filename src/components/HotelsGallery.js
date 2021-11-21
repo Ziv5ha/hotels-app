@@ -2,6 +2,7 @@ import { Component } from "react";
 import { Link } from "react-router-dom";
 import Haifa from "../data/haifa.json";
 import HotelsCard from "./HotelCard";
+import "../styles/gallary.css";
 
 class HotelsGallery extends Component {
   render() {
@@ -13,7 +14,7 @@ class HotelsGallery extends Component {
         </Link>
       );
     });
-    return <div>{hotels}</div>;
+    return <div className="gallary">{hotels}</div>;
   }
 }
 
